@@ -1,3 +1,4 @@
+
 Aashmans-Adventure
 ==================
 
@@ -9,3 +10,5 @@ No Restart if kill by Enemy
 Plus point of game is that you have 3 life to complete level. And you will not have to restart the game if enemy kills. Except you stuck in spikes, water or fall from edge of land.
 It seems easy but with greedy approach it will be difficult but more enjoyable. So be greedy adventurer.
 Currently it's in jungle world with 10 level.
+
+goolge play url:- https://play.google.com/store/apps/details?id=com.game.aashmans_adventure&hl=en
